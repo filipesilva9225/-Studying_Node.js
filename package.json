@@ -12,5 +12,11 @@
   },
   "author": "Filipe Silva",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
 }
