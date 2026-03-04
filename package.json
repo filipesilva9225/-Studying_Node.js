@@ -1,0 +1,16 @@
+{
+  "name": "mockserver",
+  "version": "0.2.0",
+  "description": "Servidor Simulado Para prática do protocolo de comunicação HTTP (arquitetura de red Client-server)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filipesilva9225"
+  },
+  "author": "Filipe Silva",
+  "license": "ISC",
+  "type": "module"
+}
